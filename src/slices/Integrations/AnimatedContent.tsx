@@ -92,7 +92,7 @@ export default function AnimatedContent({ slice }: { slice: Content.Integrations
             },
           ],
         },
-        "-=2",
+        "-=1",
       );
     },
     { scope: container },
