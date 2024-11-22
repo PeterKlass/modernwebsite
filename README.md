@@ -1,4 +1,4 @@
-# 🌐 Modern Website with Prismic & Next.js
+# 🌐 Moderne Webseite mit Prismic & Next.js
 Dieses Projekt ist eine moderne, datengetriebene Website, die mithilfe von Prismic, Next.js, und TailwindCSS entwickelt wurde. Sie bietet dynamische Inhalte, die direkt aus der Prismic-API geladen werden, und eine benutzerfreundliche Architektur für Content-Management und Designanpassungen.
 
 ## 🎯 Ziel des Projekts
