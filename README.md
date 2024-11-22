@@ -78,10 +78,10 @@ npm start
 ## 📦 Verwendete Slices
 Die Website verwendet mehrere benutzerdefinierte Slices:
 
-Hero: Darstellung von Schlüsselinhalten mit auffälligem Design.
-Showcase: Präsentation von Projekten oder Diensten.
-Bento: Flexible Grid-Layouts für verschiedene Inhalte.
-Case Studies: Dedizierte Seiten für Fallstudien.
+- Hero: Darstellung von Schlüsselinhalten mit auffälligem Design.
+- Showcase: Präsentation von Projekten oder Diensten.
+- Bento: Flexible Grid-Layouts für verschiedene Inhalte.
+- Case Studies: Dedizierte Seiten für Fallstudien.
 
 ## 🖥️ Live-Demo
 Die Live-Version dieses Projekts ist hier verfügbar: https://modernwebsite-zeta.vercel.app/
